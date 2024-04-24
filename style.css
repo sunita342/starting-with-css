@@ -1,0 +1,32 @@
+.external{color: antiquewhite;}
+.int__external{color: salmon;}
+.inline__internal__external{ color: greenyellow;}
+
+
+
+
+
+.firstName {
+background-color: red;
+}
+.lastName {
+background-color: green;
+}
+.email {
+background-color: yellow;
+}
+.password {
+    background-color:hotpink;
+    }
+    .confirmPassword {
+        background-color: gray;
+        }
+     .checkbox {
+      background-color:khaki;
+     }
+     .age {
+        background-color: firebrick;
+        }      
+            
+button {background-color:rgb(21, 13, 243);color: black;
+opacity: 50%:}
